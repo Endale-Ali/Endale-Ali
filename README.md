@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Endale Ali, Biostatistician & PhD Researcher
+# Biostatistician, Epidemiolgist & PhD Researcher
 
 I'm a statistician and epidemiologist, currently pursuing a PhD in Biomedical Sciences at KU Leuven, Belgium. My research focuses on the association between environmental stressors—especially heat—and health outcomes, using advanced statistical methods in epidemiology.
 
