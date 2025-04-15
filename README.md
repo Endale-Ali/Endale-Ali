@@ -18,7 +18,7 @@ I'm a statistician and quantitative epidemiologist, currently pursuing a PhD in 
 ## 🔧 Tools & Languages
 - **R** (tidyverse, survival, DLNM, INLA, brms)  
 - **Stata**, **SAS**, **SPSS**
-- Shinyapp to present results intuitively 
+- **ShinyApp** to present results intuitively 
 - Data visualization, reproducible research (ggplot2, R Markdown)  
 - Git/GitHub for version control and collaboration  
 - LaTeX for document preparation  
