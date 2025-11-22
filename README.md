@@ -29,12 +29,15 @@ This GitHub profile showcases a growing collection of open and reproducible data
 Each project is structured to help learners and researchers understand statistical modeling in real-world public health and environmental contexts.
 
 Stay tuned as I build out:
-- Regression models (Linear, Logistic, Poisson)  
+- Regression models (Linear, Logistic, Poisson)
+- Machine learning
+- Summarising results using ShinyApp
 - Survival analysis (Kaplan-Meier, Cox)  
 - Spatial epidemiology  
 - Time series modeling  
 - Bayesian disease mapping  
-- Distributed lag non-linear modeling (DLNM)  
+- Distributed lag non-linear modeling (DLNM)
+- For other statistical and epidemiological questions
 
 ---
 
