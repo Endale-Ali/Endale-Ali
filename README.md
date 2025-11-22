@@ -11,6 +11,7 @@ I'm a statistician and quantitative epidemiologist, currently pursuing a PhD in 
 - Presenting complex results using the ShinyApp tool  
 
 ## 📚 Academic Background
+- 🎓 PhD In Biomedical Sciences (2024-2027)  
 - 🎓 MSc in Statistics & Data Science, specialization in Quantitative Epidemiology  
 - 🎓 MSc in Biostatistics  
 - 🎓 BSc in Statistics  
