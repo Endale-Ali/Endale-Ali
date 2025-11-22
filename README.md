@@ -1,6 +1,6 @@
 # Biostatistician, Epidemiolgist & PhD Researcher
 
-I'm a statistician and quantitative epidemiologist, currently pursuing a PhD in Biomedical Sciences at KU Leuven, Belgium. My research focuses on the association between environmental stressors—especially heat—and health outcomes, using advanced statistical methods in epidemiology.
+I am a statistician and quantitative epidemiologist, currently pursuing a PhD in Biomedical Sciences at KU Leuven, Belgium. My research focuses on the association between environmental stressors—especially heat—and health outcomes, using advanced statistical methods in epidemiology.
 
 ## 🔬 Research Interests
 - Quantifying the **heat-health association** and identifying vulnerable populations  
