@@ -38,5 +38,5 @@ Stay tuned as I build out:
 
 ---
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/) or by email for collaboration or questions!
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/) or by email (endalestat@gmail.com) for collaboration or questions!
 
